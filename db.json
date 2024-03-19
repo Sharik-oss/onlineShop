@@ -1,0 +1,31 @@
+{
+  "locations": [
+    {
+      "id": "3a5b",
+      "name": "form",
+      "city": "Tbilisi",
+      "state": "georgia",
+      "availableUnits": 5,
+      "wifi": "",
+      "laundry": ""
+    },
+    {
+      "id": "292f",
+      "name": "form",
+      "city": "Tbilisi",
+      "state": "georgia",
+      "availableUnits": 5,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": "c866",
+      "name": "form",
+      "city": "Tbilisi",
+      "state": "georgia",
+      "availableUnits": 5,
+      "wifi": true,
+      "laundry": false
+    }
+  ]
+}

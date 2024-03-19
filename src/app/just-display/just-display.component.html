@@ -1,0 +1,10 @@
+<div class="wrapper" *ngFor="let item of locations">
+    <div class="card">
+        <p><i>{{item.name}}</i></p>
+        <p>City: {{item.city}}</p>
+        <p>Has wifi: {{item.wifi}}</p>
+        <p>Available units: {{item.availableUnits}}</p>
+        <p>Has laundry: {{item.laundry}}</p>
+        <img [src]="item.photo" alt="house">
+    </div>
+</div>
